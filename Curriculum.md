@@ -149,3 +149,19 @@ Solidify patterns through applied projects and cleanup.
 - **Day 30:** _Code Review, Refactor, Optimization_
     
     - Code audits, benchmarking, avoiding globals, side-effects, dead paths
+
+### **Phase 6: Production Readiness (Days 31–33)**
+
+Introduce tooling and structural maturity for real-world deployment.
+
+- **Day 31:** _Composer & Dependency Management_
+    
+    - `composer.json`, `require`, PSR autoloading, vendor structure
+        
+- **Day 32:** _Unit Testing with PHPUnit_
+    
+    - Installing PHPUnit, writing tests, assertions, mocks, test coverage
+        
+- **Day 33:** _Configuration Management_
+    
+    - `php.ini` essentials, `ini_get`, `ini_set`, `.env` handling via libraries like `vlucas/phpdotenv`

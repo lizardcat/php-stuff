@@ -1,3 +1,5 @@
+
+
 ## Exercises
 
 ###### 1. **Indexed Array:** Create an array of 5 city names. Print the third one.

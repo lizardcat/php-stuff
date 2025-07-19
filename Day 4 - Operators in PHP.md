@@ -1,3 +1,12 @@
+Operators are symbols that perform operations on variables and vales. In PHP, operators are grouped by functionality. 
+
+##### 1. Arithmetic Operators
+
+These are the ones used for mathematical operations like `+`, `-`, `*`, `/`, `%`, and `**`. 
+
+##### 2. Assignment Operators 
+These are used to assign values to variables. They include `=`, `+=`, `-=`, `/=`, `%=`. 
+
 ### Exercises
 
 ##### 1. Write a script to add, subtract, multiply, divide, and modulo two user-provided numbers.
